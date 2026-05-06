@@ -1,1 +1,1 @@
-machine learning and stuff
+ml and stuff
